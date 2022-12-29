@@ -1,0 +1,12 @@
+body
+{
+    background-color:aquamarine;
+}
+::placeholder
+{
+    color: blueviolet;
+}
+div{
+    border: 3px solid black;
+    text-align-last: center;
+}
